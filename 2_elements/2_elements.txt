@@ -2,4 +2,4 @@
 
 #tag - defines how the content will be structured or formatted.
 
-some html elements have no closing tag(ex. - <br>, <img>, <>)
+some html elements have no closing tag(ex. - <br>, <img>)
