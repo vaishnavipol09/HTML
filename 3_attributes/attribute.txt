@@ -1,0 +1,7 @@
+#Attribute - All html elements have attributes
+ - Attribute provied additional information about elements.
+ - Attribute are always specified in start tag.
+
+ #alt attributes - alternative text
+
+ #style attributes - add styles to element such as color, font, size, etc
