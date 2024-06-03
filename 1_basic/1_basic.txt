@@ -1,0 +1,8 @@
+
+#!DOCTYPE html> - instruction to the web browser which version of html you are using.
+
+#What is difference between HTML and DOCTYPE html?
+ - HTML - holding all the contect of html document.
+ - DOCTYPE html - browser which version of html you are using.
+
+#<meta> - this tag defines metadata about the html document and metadata is information about the data
