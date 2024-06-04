@@ -1,0 +1,6 @@
+#RGB(red, green, blue)
+#RGBA(red, green, blue, alpha) - aplha color give number between 0.0 (fully transparent) and 1.0 (not transparent at all)
+
+#hex(using a hexadecimal value in the form)
+
+#hsl(hue, saturation, lightness)
