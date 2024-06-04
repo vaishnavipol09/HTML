@@ -1,0 +1,4 @@
+#<q> - short quotation(quotation mark around the specific text)
+#<address>
+#<cite> -  title of a creative work (book,  poem,  song, movie, painting)
+#<bdo> - Bi-Directional Override ( used to override the current text direction)
