@@ -1,0 +1,10 @@
+#target - this attribute specifices where to open the linked document.
+
+#_self - default (Opens the document in the same window).
+#_blank - Opens the document in a new window or tab.
+#_parent - Opens the document in the parent frame
+#_top - Opens the document in the full body of the window
+
+#if you want bookmark any specific page then use id attributes to create a bookmark
+-href attribute to link to the bookmark(href="#value")
+id-#
