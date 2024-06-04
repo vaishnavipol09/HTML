@@ -1,0 +1,12 @@
+#<pre> - pre-formatted text 
+ex - if you want add some poem in your paragraph so you use <pre> tag also use <p> tag but you need to add <br> tag instead you use <pre> 
+     tag they give line break or space.
+
+#<b> - bold text
+#<strong> -  text with strong importance or displayed in bold
+#<i> - italic text
+#<em> - emphasized text, displayed in italic.
+#<small> - smaller text
+#<mark> - marked text or text should be marked or highlighted
+#<sub> - subscript text(half a character below the normal line)
+#<sup> - subscript text( half a character above the normal line)
