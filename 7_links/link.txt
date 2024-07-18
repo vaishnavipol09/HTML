@@ -9,4 +9,4 @@
 -href attribute to link to the bookmark(href="#value")
 id-#
 
-# mailto : this attribute create a link that opens the user's email program 
+# mailto : this attribute create a link that opens the user's email program
